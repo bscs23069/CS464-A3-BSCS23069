@@ -1,6 +1,6 @@
 # CS464 Assignment 03 · Mayasa Fakhar · BSCS23069
 
-- **Video (60–120 s):** [VIDEO LINK]
+- **Video (60–120 s):** https://drive.google.com/file/d/1Cw5-_Xo8BsvtkP-Frc5jWw8LHSaTJVvO/view?usp=sharing
 - **Project:** a new Unity 6.3 project (6000.3.27f1) with five new scenes, built for this assignment. Only the player controller, camera follow and easing scripts come from my Assignment 02, since this assignment builds on that controller
 - **Controls:** WASD or the arrow keys to move (the camera is behind you, so W is always forward), Space to jump
 - **To win a level:** collect enough coins to open the goal (Level01 6 of 6, Level02 5 of 6, Level03 8 of 12, Level04 5 of 6, Level05 6 of 7), then reach the green flag
